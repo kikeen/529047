@@ -21,5 +21,5 @@
 <img src="garbage.jpg" >
 
 <h4>My Family</h4>
-<p>I am the youngest of 6. I have 3 brothers and 2 sisters. My sisters' names are Mariela and Lili and my brothers' names are Jorge, Diego, and Juan. /p>
+<p>I am the youngest of 6. I have 3 brothers and 2 sisters. My sisters' names are Mariela and Lili and my brothers' names are Jorge, Diego, and Juan. 
 </html>
