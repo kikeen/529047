@@ -3,7 +3,7 @@
 <head>
 <div style="background-color:#f1f1f1;padding:15px;">
 <h1 align="center">Kiko's Website!</h1>
-  <h3>------------------------------------------------------------------------------------YOOOO HMU AND ADD ME ON SNAP @ KIKO_RUI-------------------------------------------------------------------------------</h3>
+  <h3>YOOOO HMU AND ADD ME ON SNAP @ KIKO_RUI</h3>
 <body bgcolor="#E6E6FA">
 </div>
 <h1>This is me</h1>
