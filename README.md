@@ -16,7 +16,7 @@
     <h2>What is my favorite hobby?</h2>
     <p>My favorite hobby is play wiffleball. My family plays almost everyday and it gets really intense. We start to get really personal and cuss at each other, but thats what makes it the most fun. My brother Teddy is the most disrespectful man I have ever seen. He is as big as a freakin gorilla and he cheats all the time but he also gets in the head of many of the players which cuases them to suck. I am a great hitter and the idea that Mr. Lewis can strike me out is laughable. You got jokes Jordan.</p>
     <h2>My favorite songs</h2>
-    <p>Bohemian Rhapsody by Queen, Wet dreamz by Jcole, Hotel California by the Eagles, let it be by the Beatles, Hey Jude by the Beatles, p>
+  <p>Bohemian Rhapsody by Queen, Wet dreamz by Jcole, Hotel California by the Eagles, let it be by the Beatles, Hey Jude by the Beatles, p>
     <h2>My life</h2>
 <img src="garbage.jpg" >
 
